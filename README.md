@@ -61,7 +61,7 @@ chat_completion = openai.ChatCompletion.create(model="any", messages=[{"role": "
 
 ### 与Langchain整合
 
-您还可以将 modelz-llm 与 langchain 集成：
+您还可以将 llm-ready 与 langchain 集成：
 
 ```python
 import openai
