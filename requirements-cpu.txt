@@ -1,0 +1,9 @@
+msgpack
+mosec
+torch
+transformers
+llmspec
+falcon
+uvicorn
+sentencepiece
+accelerate

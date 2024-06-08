@@ -1,0 +1,12 @@
+Using version ^0.30.1 for uvicorn
+
+Updating dependencies
+Resolving dependencies...
+
+Package operations: 2 installs, 1 update, 0 removals
+
+  - Installing h11 (0.14.0)
+  - Updating typing-extensions (4.12.0 -> 4.12.1)
+  - Installing uvicorn (0.30.1)
+
+Writing lock file

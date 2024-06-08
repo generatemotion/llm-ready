@@ -1,0 +1,10 @@
+msgpack
+mosec
+torch --extra-index-url https://download.pytorch.org/whl/cu116
+transformers
+sentencepiece
+cpm_kernels
+accelerate
+llmspec
+falcon
+uvicorn
